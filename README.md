@@ -1,7 +1,7 @@
 ### Food Delivery Website 🍔🍕 ###
 This project is a food delivery website created using React and Tailwind CSS. It serves as a practical exercise to reinforce React concepts and explore the styling capabilities of Tailwind CSS.
 ---
-Live Preview - https://bespoke-macaron-42140f.netlify.app/
+Live Preview -besteats-pankaj.netlify.app
 
 ***
 🚀 Quick Start
