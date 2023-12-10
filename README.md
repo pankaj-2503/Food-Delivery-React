@@ -24,11 +24,14 @@ Copy code
 npm start
 Open http://localhost:3000 in your browser to view the website.
 
+
 🌟 Features
 Responsive design using Tailwind CSS
 Various components including header, card, hero, etc.
 Sample raw data for testing and development
 📂 Folder Structure
+
+tree
 food-delivery-website/
 |-- public/
 |-- src/
