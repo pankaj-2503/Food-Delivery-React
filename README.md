@@ -1,6 +1,7 @@
 ### Food Delivery Website 🍔🍕 ###
 This project is a food delivery website created using React and Tailwind CSS. It serves as a practical exercise to reinforce React concepts and explore the styling capabilities of Tailwind CSS.
 
+***
 🚀 Quick Start
 Clone the repository:
 
@@ -23,7 +24,7 @@ bash
 Copy code
 npm start
 Open http://localhost:3000 in your browser to view the website.
-
+***
 
 🌟 Features
 Responsive design using Tailwind CSS
@@ -53,7 +54,7 @@ food-delivery-website/
 |-- README.md
 |-- ...
 ```
-
+***
 
 🧩 Components
 Header Component: The header of the website.
@@ -64,9 +65,12 @@ Hero Component: Displays a hero section on the landing page.
 
 ... (Add more components as needed)
 
-📊 Raw Data
-Raw data for menu items is stored in src/data/menuData.js. Modify this file to add, remove, or edit menu items.
 
+***
+📊 Raw Data
+---
+Raw data for menu items is stored in src/data/menuData.js. Modify this file to add, remove, or edit menu items.
+```
 javascript
 const menuData = [
   {
@@ -77,11 +81,9 @@ const menuData = [
   },
   // Add more menu items
 ];
+```
 
-export default menuData;
-
-
-export default menuData;
+***
 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests. Follow these steps:
 
