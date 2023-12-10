@@ -31,25 +31,27 @@ Various components including header, card, hero, etc.
 Sample raw data for testing and development
 📂 Folder Structure
 
-tree
+I apologize for the confusion. The folder structure may not appear properly formatted in certain Markdown renderings. To ensure the tree structure is maintained, you can use a code block by placing three backticks (```) before and after the code. Additionally, you can specify the language after the opening backticks to improve formatting. Here's an updated version:
+
+plaintext
+Copy code
 food-delivery-website/
 |-- public/
 |-- src/
-|   |-- components/
-|       |-- Card/
-|       |-- Header/
-|       |-- Hero/
-|       |-- ...
-|   |-- data/
-|       |-- menuData.js
-|   |-- App.js
-|   |-- index.js
-|   |-- ...
+| |-- components/
+| | |-- Card/
+| | |-- Header/
+| | |-- Hero/
+| | |-- ...
+| |-- data/
+| | |-- menuData.js
+| |-- App.js
+| |-- index.js
+| |-- ...
 |-- .gitignore
 |-- package.json
 |-- README.md
 |-- ...
-
 
 🧩 Components
 Header Component: The header of the website.
