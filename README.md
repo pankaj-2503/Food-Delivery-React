@@ -29,10 +29,12 @@ Open http://localhost:3000 in your browser to view the website.
 Responsive design using Tailwind CSS
 Various components including header, card, hero, etc.
 Sample raw data for testing and development
+
+***
 📂 Folder Structure
 
-I apologize for the confusion. The folder structure may not appear properly formatted in certain Markdown renderings. To ensure the tree structure is maintained, you can use a code block by placing three backticks (```) before and after the code. Additionally, you can specify the language after the opening backticks to improve formatting. Here's an updated version:
 
+```
 food-delivery-website/
 |-- public/
 |-- src/
@@ -50,7 +52,7 @@ food-delivery-website/
 |-- package.json
 |-- README.md
 |-- ...
-
+```
 
 
 🧩 Components
