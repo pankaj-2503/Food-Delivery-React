@@ -7,24 +7,25 @@ Live Preview - [BestEats][url(https://besteats-pankaj.netlify.app/)]
 🚀 Quick Start
 Clone the repository:
 
-bash
-Copy code
+```
 git clone https://github.com/your-username/food-delivery-website.git
+```
 Navigate to the project directory:
 
-bash
-Copy code
+
+```
 cd food-delivery-website
+```
 Install dependencies:
 
-bash
-Copy code
+```
 npm install
+```
 Run the development server:
 
-bash
-Copy code
+```
 npm start
+```
 Open http://localhost:3000 in your browser to view the website.
 ***
 
